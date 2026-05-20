@@ -6,6 +6,7 @@ Static GitHub Pages site files for `https://github.com/Safken/xbeaugaming`.
 
 - `index.html` - xBeauGaming home page
 - `dungeon-hauler-support.html` - Dungeon Hauler support page
+- `dungeon-hauler-version.json` - Dungeon Hauler Android update check metadata
 - `privacy-policy.html` - Dungeon Hauler privacy policy
 - `style.css` - shared styling
 

@@ -1,0 +1,8 @@
+{
+  "latest_android_version_code": 2,
+  "latest_version_name": "1.0.0",
+  "latest_build_label": "1.0.0 internal 2",
+  "minimum_supported_android_version_code": 1,
+  "update_url": "https://play.google.com/store/apps/details?id=com.xbeau.dungeonhauler",
+  "release_notes": "Internal test 2 includes feedback text fixes, Android back navigation, and dungeon transition polish."
+}
