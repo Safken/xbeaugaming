@@ -1,8 +1,8 @@
 {
-  "latest_android_version_code": 11,
+  "latest_android_version_code": 12,
   "latest_version_name": "1.0.0",
-  "latest_build_label": "1.0.0 internal 11",
+  "latest_build_label": "1.0.0 internal 12",
   "minimum_supported_android_version_code": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.xbeau.dungeonhauler",
-  "release_notes": "Hotfix for the Play Store build failing to launch. Same gameplay content as Internal Test 10, with the Android app bundle launch packaging repaired."
+  "release_notes": "Fixes the first Fire 1 magic lesson so orientation uses the real trace-and-cast flow. Spell tracing now starts on the green dot, casts automatically on release at the red dot, uses thicker dots and lines, and no longer requires an extra Finish or Continue button."
 }
