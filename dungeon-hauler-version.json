@@ -1,8 +1,8 @@
 {
-  "latest_android_version_code": 9,
+  "latest_android_version_code": 10,
   "latest_version_name": "1.0.0",
-  "latest_build_label": "1.0.0 internal 9",
+  "latest_build_label": "1.0.0 internal 10",
   "minimum_supported_android_version_code": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.xbeau.dungeonhauler",
-  "release_notes": "Adds a guided first-run Guild Orientation Basement, larger default text, clearer combat feedback, improved dungeon wayfinding, daily contracts, the guild debt ledger, Royal Dungeon Initiative goals, Royal Charter prestige, and the first Magic Academy spell lessons."
+  "release_notes": "Same gameplay content as Internal Test 9, rebuilt for Google Play delivery. Adds a guided first-run Guild Orientation Basement, larger default text, clearer combat feedback, improved dungeon wayfinding, daily contracts, the guild debt ledger, Royal Dungeon Initiative goals, Royal Charter prestige, and the first Magic Academy spell lessons."
 }
