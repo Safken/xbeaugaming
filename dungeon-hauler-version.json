@@ -1,9 +1,9 @@
 {
   "metadata_schema_version": 1,
   "android_package_name": "com.xbeau.dungeonhauler",
-  "latest_android_version_code": 17,
+  "latest_android_version_code": 18,
   "latest_version_name": "1.0.0",
-  "latest_build_label": "1.0.0 production candidate 17",
+  "latest_build_label": "1.0.0 production candidate 18",
   "minimum_supported_android_version_code": 1,
   "pending_minimum_supported_android_version_code": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.xbeau.dungeonhauler",
@@ -12,7 +12,7 @@
   "release_verified_android_version_code": 0,
   "release_verified_unix": 0,
   "minimum_enforcement_unix": 0,
-  "metadata_published_unix": 1790055232,
-  "metadata_valid_until_unix": 1792647232,
-  "release_notes": "Fixes recognition of completed Remove Ads purchases and restored ownership. Adds a clear ADS REMOVED confirmation, a personal thank-you, and an updated town button."
+  "metadata_published_unix": 1790055929,
+  "metadata_valid_until_unix": 1792647929,
+  "release_notes": "The Remove Ads button now disappears after purchase or recovery. Reinstalling players can use Restore Purchase on the purchase screen to recover their existing purchase."
 }
